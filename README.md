@@ -1,3 +1,28 @@
+# React converter currency
+
+Converter currency app on React
+
+# Tech stack
+Web application based on React
+
+- Clientside UI libraries: [react-bootstrap](https://react-bootstrap.github.io/), [ant design](https://ant.design/)
+- Вata-fetching library: react-query
+
+# Features
+
+Coverter currency
+- [x] Can add amount to convert
+- [x] You can add the currency you want to convert from and the currency you want to convert to
+- [x] Can list result
+- [x] Table with history exchanges
+
+
+# .env
+
+Production needs a .env file to build application. You can get the api key by registering at https://apilayer.com/marketplace/exchangerates_data-api
+
+REACT_APP_API_KEY= api key
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
