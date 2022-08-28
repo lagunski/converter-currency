@@ -21,7 +21,7 @@ Coverter currency
 
 Production needs a .env file to build application. You can get the api key by registering at https://apilayer.com/marketplace/exchangerates_data-api
 
-REACT_APP_API_KEY= api key
+REACT_APP_API_KEY=api key
 
 # Getting Started with Create React App
 
