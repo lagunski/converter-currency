@@ -12,7 +12,7 @@ Web application based on React
 
 Coverter currency
 - [x] Can add amount to convert
-- [x] You can add the currency you want to convert from and the currency you want to convert to
+- [x] Can add the currency you want to convert from and the currency you want to convert to
 - [x] Can list result
 - [x] Table with history exchanges
 
